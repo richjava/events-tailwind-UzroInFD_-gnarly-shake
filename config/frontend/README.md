@@ -1,5 +1,3 @@
-# events-tailwind-UzroInFD_
-
 ## Installation and running the site locally
 1. Create a fresh Next.JS project
 ```
@@ -140,5 +138,3 @@ You will see the Strapi backend application running in the browser. To navigate 
 That's it! Your site is deployed and you can easily make changes to it through Git. 
 
 The frontend project includes [Next.JS Incremental Static Regeneration](https://nextjs.org/docs/basic-features/data-fetching/incremental-static-regeneration), so changes to the content in the CMS will automatically be picked up by the frontend.
-
-This site was built from the [Events Tailwind](https://github.com/builtjs/builtjs-theme-events-tailwind) Built.JS theme.
